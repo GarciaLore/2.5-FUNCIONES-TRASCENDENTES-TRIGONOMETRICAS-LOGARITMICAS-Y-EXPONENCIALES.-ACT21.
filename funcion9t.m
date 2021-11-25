@@ -1,3 +1,12 @@
+% Octave Script 
+% Title             :TEMA 2.5 FUNCIONES TRSCENDENTES:TRIGONOMETRICAS, LOGARITMICAS Y EXPONENCIALES
+% Actividad         :21 F. Determinar,dominio,rango,tipo de funcion (Inyectiva,Suprayectiva y Biyectiva). Graficacion de las Funciones
+% School            :Colegio de Estudios Superiores de Jilotepec (TESJI)
+% Carer             :Ingenieria en Sistemas Computacionales (ISC)
+% Authors           :Garcia Garcia Lorena 
+% Date              :24/11/2021
+% Version           :1.0
+% Usage             :octave/path/
 % Notes             :Se requiere de la aplicacion de Octave para poder dar solucion a los problemas referentes a "LOS TIPOS DE FUNCIONES"
 % Funcion numero    :#9
 % Matricule         :202123044
